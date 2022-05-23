@@ -1,9 +1,4 @@
 [dev]
-devserver
-[uat]
-[pre-prod]
+3.83.231.201
 [prod]
-prodserver
-
-[all:vars]
-ansible_user=dvsadmin
+54.167.33.132
